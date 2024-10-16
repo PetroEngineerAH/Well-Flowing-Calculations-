@@ -21,7 +21,7 @@ print(f"Mixture_Gradient: {Mixture_Gradient:,.3f} psi/ft - Mixture Fluid Gradien
 
 Mid_Point_Perf = 10950    #FTTVD 
 
-Sensor_Depth = 12600     #FTTVD 
+Sensor_Depth = 13600     #FTTVD 
 
 Mid_Point_Perf_Sensor = Sensor_Depth - Mid_Point_Perf
 
